@@ -51,7 +51,6 @@ LIMIT 10;
 Analyze their order frequency and recommend upselling or retention strategies.
 
 5. Shipping method with highest cost:
-
 SELECT ShipMode, SUM(ShippingCost) AS TotalCost
 FROM Orders
 GROUP BY ShipMode
