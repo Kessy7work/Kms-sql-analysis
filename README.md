@@ -12,6 +12,7 @@ Converted Sales, Profit, and ShippingCost to numeric
 Dates (OrderDate, ShipDate) converted to proper date format
 
 Dropped any completely empty rows
+
 STEP-BY-STEP USING SQL:
 Step 1: Load the Dataset into a SQL Database
 Step 2: Write SQL Queries for Each Scenario
